@@ -1,5 +1,5 @@
 # "Badboyhalo" Merch Store
-Explore the website [here]([https://tomirisamangeldy.github.io/badboyhalo-merch-website/](https://tomirisamangeldy.github.io/design-mock2/))
+Explore the website [here](https://tomirisamangeldy.github.io/design-mock2/)
 
 ## Description
 Merch website from scratch to practice my design and JS skills.
